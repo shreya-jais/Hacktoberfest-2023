@@ -26,3 +26,9 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 You must sign up on the "official webiste" and submit four Pull Requests (PRs) between October 1 and October 31, 2022, in order to be eligible for the official limited edition Hacktoberfest shirt (in any time zone). PRs can be sent to any GitHub public repository, not just those with issues marked as part of Hacktoberfest. The first 40,000 people who finish the challenge this year will get a T-shirt or can plant a tree.
 
 ### Everyone in the GitHub community is welcome to access and contribute in this repository.
+
+### Follow these links: Don't forget to star these repositories for future references. </br>
+[How to make a Github Account?](https://github.com/Aman-byte/How-to-Create-Github-Account)</br>
+[Set up your Github Profile](https://github.com/Aman-byte/github-profile)</br>
+[How to make a Pull Request Simplified.](https://github.com/Aman-byte/How-to-make-a-Pull-Request)
+
