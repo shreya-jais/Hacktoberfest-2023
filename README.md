@@ -31,6 +31,6 @@ Please visit [Read-this-before-contributing.md](https://github.com/Aman-byte/Hac
 ### Follow these links to know more: </br>
 [How to make a Github Account?](https://github.com/Aman-byte/How-to-Create-Github-Account)</br>
 [Set up your Github Profile](https://github.com/Aman-byte/github-profile)</br>
-[How to make a Pull Request Simplified.](https://github.com/Aman-byte/How-to-make-a-Pull-Request)
+[How to make a Pull Request Simplified.](https://github.com/Aman-byte/How-to-make-a-Pull-Request)</br>
 [Resources for beginners by Hacktoberfest](https://hacktoberfest.com/participation/#pr-mr-details)
 
