@@ -27,8 +27,9 @@ You must sign up on the "official webiste" and submit four Pull Requests (PRs) b
 
 ### Everyone in the GitHub community is welcome to access and contribute in this repository.
 
-### Follow these links: Don't forget to star these repositories for future references. </br>
+### Follow these links to know more: </br>
 [How to make a Github Account?](https://github.com/Aman-byte/How-to-Create-Github-Account)</br>
 [Set up your Github Profile](https://github.com/Aman-byte/github-profile)</br>
 [How to make a Pull Request Simplified.](https://github.com/Aman-byte/How-to-make-a-Pull-Request)
+[Resources for beginners by Hacktoberfest](https://hacktoberfest.com/participation/#pr-mr-details)
 
