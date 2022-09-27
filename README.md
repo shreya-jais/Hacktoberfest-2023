@@ -14,7 +14,7 @@
 1. Please feel free to use this project as your introduction to contributing to an open-source GitHub project. Before you actually do it, practise submitting your first pull request to a public repository.
 2. Participate in the open-source community to ensure you receive some awesome stuff during Hacktoberfest.
 
-## What is Hacktoberfestt?
+## What is Hacktoberfest?
 A month-long celebration from October 1st to October 31st presented by Digital Ocean and DEV Community collaborated with GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
 Hacktoberfest-2022 official website: [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
