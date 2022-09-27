@@ -1,5 +1,5 @@
 #  Hacktoberfest-2022
-![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+![image](https://github.com/Aman-byte/Hacktoberfest-2022/blob/main/Email%20Banners-Dark.png)
 
 <div align="center">
 
