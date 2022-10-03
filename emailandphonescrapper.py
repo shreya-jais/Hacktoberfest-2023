@@ -1,3 +1,8 @@
+"""
+Readme: This is an email and phone scrapper which finds email and phone number from data in clipboard and then copies the result.
+
+The packages used in this script are: re (module for regex) and pyperclip.
+"""
 import re
 import pyperclip
 
