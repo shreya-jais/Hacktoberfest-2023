@@ -1,7 +1,7 @@
 import re
 import pyperclip
 
-# Create a regex for phone numbers
+# Creating a regex for phone numbers
 
 phoneRegex = re.compile(r'''
 # 415-555-0000, 555-0000, (415) 555-0000, 555-0000 ext 12345, ext. 12345, x12345
